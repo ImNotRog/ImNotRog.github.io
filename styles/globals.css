@@ -11,5 +11,6 @@
         font-family: Gelasio;
         background-color: #1D1E2C;
         color: white;
+        scroll-behavior: smooth;
     }
 }
