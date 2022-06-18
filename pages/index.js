@@ -42,7 +42,7 @@ export default function Home() {
 			</div>
 
 			<div className="grid grid-cols-[repeat(auto-fill,minmax(310px,1fr))] gap-5 lg:gap-[50px] px-10">
-				{projectjson.map(datum => <Project data={datum} />)}
+				{projectjson.map(datum => <Project data={datum} key={datum.name} />)}
 			</div>
 		</div>
 		<div className="p-10">
