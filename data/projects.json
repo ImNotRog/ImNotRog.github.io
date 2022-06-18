@@ -1,0 +1,158 @@
+[
+    {
+        "picture": "watt.png",
+        "name": "WATT",
+        "description": "(Contributor) Gunn schedule app and UGWA successor.",
+        "links": {
+            "link": "https://gunnwatt.web.app/",
+            "github": "https://github.com/GunnWATT/watt"
+        },
+        "languages": [
+            "react",
+            "sass"
+        ],
+        "significant": true
+    },
+    {
+        "picture": "cards.png",
+        "name": "Cards",
+        "description": "A (forever) in progress website for virtual card games.",
+        "links": {
+            "link": "https://imnotrog.github.io/Cards/",
+            "github": "https://github.com/ImNotRog/Cards"
+        },
+        "languages": [
+            "react",
+            "css"
+        ],
+        "significant": true
+    },
+    {
+        "name": "Color NN",
+        "description": "A scandalous underuse of a neural network.",
+        "links": {
+            "github": "https://github.com/ImNotRog/Sketches/tree/master/sketches/neural-net-colors",
+            "link": "https://ImNotRog.github.io/Sketches/sketches/neural-net-colors/",
+            "p5": "https://editor.p5js.org/bubbybabur/sketches/Ibq1033Yz"
+        },
+        "languages": [
+            "js"
+        ]
+    },
+    {
+        "picture": "sir.png",
+        "name": "SIR",
+        "description": "An extremely unrealistic SIR simulation of a disease.",
+        "links": {
+            "github": "https://github.com/ImNotRog/Sketches/tree/master/sketches/SIR/SIR-by-proximity",
+            "link": "https://ImNotRog.github.io/Sketches/sketches/SIR/SIR-by-proximity/",
+            "p5": "https://editor.p5js.org/bubbybabur/sketches/Py4ndfJk-"
+        },
+        "languages": [
+            "js"
+        ]
+    },
+    {
+        "picture": "ultttt.png",
+        "name": "Tic Tac Toe",
+        "description": "Tic Tac Toe, but overly complex.",
+        "links": {
+            "github": "https://github.com/ImNotRog/ulttictactoe",
+            "link": "https://ImNotRog.github.io/ulttictactoe"
+        },
+        "languages": [
+            "html",
+            "css",
+            "js"
+        ]
+    },
+    {
+        "picture": "flocking.png",
+        "name": "Flocking",
+        "description": "A flocking algorithm implemented in p5js.",
+        "links": {
+            "github": "https://github.com/ImNotRog/Sketches/tree/master/sketches/flocking",
+            "link": "https://ImNotRog.github.io/Sketches/sketches/flocking/",
+            "p5": "https://editor.p5js.org/bubbybabur/sketches/sfUB4Taki"
+        },
+        "languages": [
+            "js"
+        ]
+    },
+    {
+        "picture": "flower-physics.png",
+        "name": "Flower",
+        "description": "This is exactly what it sounds like.",
+        "links": {
+            "github": "https://github.com/ImNotRog/Sketches/tree/master/sketches/flower",
+            "link": "https://ImNotRog.github.io/Sketches/sketches/flower/"
+        },
+        "languages": [
+            "js"
+        ]
+    },
+    {
+        "picture": "maze-generator-and-solver.png",
+        "name": "Maze",
+        "description": "Generates a maze and then solves it. Kind of redundant if you think about it.",
+        "links": {
+            "github": "https://github.com/ImNotRog/Sketches/tree/master/sketches/maze-generator-and-solver",
+            "link": "https://ImNotRog.github.io/Sketches/sketches/maze-generator-and-solver/",
+            "p5": "https://editor.p5js.org/bubbybabur/sketches/vz4Ajo4rD"
+        },
+        "languages": [
+            "js"
+        ]
+    },
+    {
+        "picture": "snake.png",
+        "name": "Snake",
+        "description": "A very generic and very boring snake game.",
+        "links": {
+            "github": "https://github.com/ImNotRog/Sketches/tree/master/sketches/snake",
+            "link": "https://ImNotRog.github.io/Sketches/sketches/snake/",
+            "p5": "https://editor.p5js.org/bubbybabur/sketches/y-YaR0gSU"
+        },
+        "languages": [
+            "js"
+        ]
+    },
+    {
+        "picture": "fireworks.png",
+        "name": "Fireworks",
+        "description": "Fireworks!",
+        "links": {
+            "github": "https://github.com/ImNotRog/Sketches/tree/master/sketches/fireworks",
+            "link": "https://ImNotRog.github.io/Sketches/sketches/fireworks/",
+            "p5": "https://editor.p5js.org/bubbybabur/sketches/ppeewqrkF"
+        },
+        "languages": [
+            "js"
+        ]
+    },
+    {
+        "picture": "star-trails.png",
+        "name": "Star Trails",
+        "description": "Some quick generative art.",
+        "links": {
+            "github": "https://github.com/ImNotRog/Sketches/tree/master/sketches/startrails",
+            "link": "https://ImNotRog.github.io/Sketches/sketches/startrails/",
+            "p5": "https://editor.p5js.org/bubbybabur/sketches/mYJmOpJTc"
+        },
+        "languages": [
+            "js"
+        ]
+    },
+    {
+        "picture": "web.png",
+        "name": "Web",
+        "description": "Generative art using perlin noise.",
+        "links": {
+            "github": "https://github.com/ImNotRog/Sketches/tree/master/sketches/web-thing",
+            "link": "https://ImNotRog.github.io/Sketches/sketches/web-thing/"
+        },
+        "languages": [
+            "js"
+        ]
+    }
+]
