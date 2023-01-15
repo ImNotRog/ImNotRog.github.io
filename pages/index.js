@@ -51,28 +51,10 @@ export default function Home() {
 			</Heading>
 
 			<div className="mt-5 text-xl max-w-xl">
-				My name is Roger Fan, and I&#39;ll be graduating from Henry M. Gunn High School in 2024.
-				Neither you nor I want to talk about meaningless academic achievements, so I will spare
-				you my details.
-			</div>
-
-			<div className="mt-5 text-xl max-w-xl">
-				I created this website myself with such technologies
-				as <span className="text-highlight">NextJS</span> and <span className="text-highlight">Tailwind CSS</span>.
-				Though, before that, all of this was designed in <span className="text-highlight">Figma</span>. And as with
-				all software projects, this website owes its existence to <span className="text-highlight">Stack Overflow</span>.
-			</div>
-
-			<div className="mt-5 text-xl max-w-xl">
-				Want to contact me? Sure! One may easily find my email address at the bottom of this page, though I suppose these days
-				failure to find anyone&#39;s social media accounts is a virtual impossibility. However, I must inform the dear reader
-				that those who meet me often leave with fewer brain cells than they formerly had.
-			</div>
-
-			<div className="mt-5 text-xl max-w-xl">
-				So then, dear reader, you have arrived at the end. How or why you are here, I cannot say. But I am impressed&#8212;
-				literacy is a rare trait these days, especially for passages to which a reader must dedicate over 5 seconds of their time.
-				It is late, and we must part now. I humbly wish the reader an excellent rest of their day.
+				My name is Roger Fan, and I&#39;ll be graduating from Henry M. Gunn High School in 2024. I created this website 
+				myself with such technologies as <span className="text-highlight">NextJS</span> and <span className="text-highlight">Tailwind CSS</span>. 
+				Though, before that, all of this was designed in <span className="text-highlight">Figma</span>. 
+				And as with all software projects, this website owes its existence to <span className="text-highlight">Stack Overflow</span>.
 			</div>
 		</div>
 	</>
